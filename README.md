@@ -26,4 +26,4 @@ npm install react-native-reanimated
 
 //캐시를 삭제한 후 프로젝트를 다시 시작
 
-expo start -c
+npx expo start -c
