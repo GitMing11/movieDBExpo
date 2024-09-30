@@ -9,6 +9,7 @@ npx expo install react-dom react-native-web @expo/metro-runtime
 npx expo start
 
 # 패키지 설치
+npm install redux react-redux
 
 npm install @react-navigation/stack
 
@@ -21,6 +22,8 @@ npm install @react-navigation/native
 npm install axios
 
 npm install react-native-reanimated
+
+//npm install @reduxjs/toolkit
 
 # 시작
 
