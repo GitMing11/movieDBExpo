@@ -19,11 +19,14 @@ npm install @react-navigation/bottom-tabs
 
 npm install @react-navigation/native
 
+npm install @reduxjs/toolkit
+
+npm install styled-components
+
 npm install axios
 
 npm install react-native-reanimated
 
-//npm install @reduxjs/toolkit
 
 # 시작
 
